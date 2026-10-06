@@ -3,3 +3,6 @@
  - sauces
  - toppings
  - ingredients
+
+ Location
+ Delivery
