@@ -5,6 +5,6 @@
  - ingredients
 
  Location
- Delivery to MExico
+ Delivery to Mexico
 
  cat typing is weird
